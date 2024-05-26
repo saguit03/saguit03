@@ -4,7 +4,16 @@
 
 Estudiante del Grado en Ingeniería del Software en la Universidad de Extremadura (UEx) y guitarrista.
 
-## Experiencia en
+## Proyectos realizados
+
+- Juego Set (C++, Introducción a la Programación)
+- 2048 (Ensamblador, Introducción a los Computadores)
+- Ciclismo (Java, Desarrollo de Programas)
+- Tetris (Ensamblador, Arquitectura y Organización de Computadores)
+- MyDelivery (Java, Programación Concurrente y Concurrida)
+- Booking (HTML, CSS, Java, AngularJS, Programación en Internet)
+
+## Experiencia en 
 
 - C/C++
 - Java
@@ -12,8 +21,9 @@ Estudiante del Grado en Ingeniería del Software en la Universidad de Extremadur
 - Shell Script
 - LaTeX
 - Markdown
-- HTML (en proceso)
-- CSS (en proceso)
+- HTML
+- CSS
+- AngularJS
 
 ## Intereses
 
