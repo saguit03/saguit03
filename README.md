@@ -18,6 +18,7 @@ Estudiante del Grado en Ingeniería del Software en la Universidad de Extremadur
 - AnnIe, recomendador de anime (IA, PLN; Procesamiento de Lenguaje Natural)
 - Juegos de los Datos: Interrelaciones entre personajes de «Los Juegos del Hambre» (Python y Neo4j; Minería de Datos y Almacenamiento de Datos)
 - Pokémon Breeding: Sistema de apoyo a la crianza Pokémon (Python y ArcadeDB; Recuperación de la Información y Búsqueda en la Web)
+- MetronIA ― Sistema de Análisis de Sincronía de Ritmos Musicales en Audios [EN PROCESO]
 
 ## Experiencia en 
 
