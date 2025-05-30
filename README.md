@@ -10,7 +10,7 @@ Estudiante del Grado en Ingeniería del Software en la Universidad de Extremadur
 - 2048 (Ensamblador, Introducción a los Computadores)
 - Ciclismo (Java, Desarrollo de Programas)
 - Tetris (Ensamblador, Arquitectura y Organización de Computadores)
-- MyDelivery (Java, Programación Concurrente y Concurrida)
+- MyDelivery (Java, Programación Concurrente y Distribuida)
 - Booking (HTML, CSS, Java, AngularJS; Programación en Internet)
 - Mediflí (Spring Boot, Flask, Docker y Jira; Gestión de Proyectos Software y Arquitecturas Software en Entornos Empresariales)
 - Proyecto con microservicios (Spring Boot; Arquitecturas Orientadas a Servicios)
