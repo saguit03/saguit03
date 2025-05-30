@@ -16,6 +16,8 @@ Estudiante del Grado en Ingeniería del Software en la Universidad de Extremadur
 - Proyecto con microservicios (Spring Boot; Arquitecturas Orientadas a Servicios)
 - Laboratorios con JCA (Java, JCA; Seguridad en Redes Telemáticas)
 - AnnIe, recomendador de anime (IA, PLN; Procesamiento de Lenguaje Natural)
+- Juegos de los Datos: Interrelaciones entre personajes de «Los Juegos del Hambre» con Neo4j (Python y Neo4j; Minería de Datos y Almacenamiento de Datos)
+- Pokémon Breeding: Sistema de apoyo a la crianza Pokémon con ArcadeDB (Python y Neo4j; Recuperación de la Información y Búsqueda en la Web)
 
 ## Experiencia en 
 
@@ -28,7 +30,7 @@ Estudiante del Grado en Ingeniería del Software en la Universidad de Extremadur
 - AWS
 - Terraform
 - SQL, Oracle, PostgreSQL, SQLite
-- MongoDB
+- MongoDB, Neo4j, ArcadeDB
 
 ## Intereses
 
